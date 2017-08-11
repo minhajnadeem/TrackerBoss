@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "2833344436",
+    "firebase_url": "https://spot-food-center.firebaseio.com",
+    "project_id": "spot-food-center",
+    "storage_bucket": "spot-food-center.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2833344436:android:cb6512624d60b499",
+        "android_client_info": {
+          "package_name": "com.mj.minhajlib.spotfoodcenter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2833344436-555ap814r8mafvo6pkeim8n6b7b04ko7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO5y2NigMts5v7QVdtcIYegqg8U7q3RCI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2833344436:android:4bd1f23df6c78479",
+        "android_client_info": {
+          "package_name": "com.mj.minhajlib.trackme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2833344436-2i3seuub2chqo1j3p19sic8s6sp3nd7m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mj.minhajlib.trackme",
+            "certificate_hash": "f704b4e5a250c21d7ff743dd3e8cf2520c58da7e"
+          }
+        },
+        {
+          "client_id": "2833344436-555ap814r8mafvo6pkeim8n6b7b04ko7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO5y2NigMts5v7QVdtcIYegqg8U7q3RCI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2833344436-555ap814r8mafvo6pkeim8n6b7b04ko7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2833344436:android:1120fe399be1ca50",
+        "android_client_info": {
+          "package_name": "com.mj.minhajlib.trackerboss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2833344436-i9sdvb6t90aveqhlig16v543cgas5r3g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mj.minhajlib.trackerboss",
+            "certificate_hash": "f704b4e5a250c21d7ff743dd3e8cf2520c58da7e"
+          }
+        },
+        {
+          "client_id": "2833344436-555ap814r8mafvo6pkeim8n6b7b04ko7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO5y2NigMts5v7QVdtcIYegqg8U7q3RCI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2833344436-555ap814r8mafvo6pkeim8n6b7b04ko7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
